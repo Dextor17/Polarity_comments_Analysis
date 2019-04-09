@@ -22,7 +22,7 @@ from pandas.io.json import json_normalize
 
 
 ```python
-url = "https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyBwdx2rVaePw3a5ls0tMnF3Z_dea_c-NLM&textFormat=plainText&part=snippet&videoId=5GDTIUVlHB8&maxResults=100"
+url = "https://www.googleapis.com/youtube/v3/commentThreads?key=__________________________&textFormat=plainText&part=snippet&videoId=5GDTIUVlHB8&maxResults=100"
 ```
 
 # Using the video id ,google developer console api key and the url to fetch the required content,here content is comment
@@ -291,7 +291,7 @@ from textblob import TextBlob
 
 
 ```python
-infile = '/home/prachi/PycharmProjects/Mini_project/video4.csv'
+infile = '/home/prachi/PycharmProjects/Mini_project/polarity.csv'
 ```
 
 
